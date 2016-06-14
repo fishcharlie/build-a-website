@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+
+.header {
+	background: #d3d3d3;
+}
+
+.jobheader {
+	text-decoration: underline;
+	font-family: monospace;
+	font-size: 15pt;
+	color: darkblue;
+}
+
+.name {
+	font-size: 40pt;
+	margin-bottom: 0;
+	-webkit-margin-before:0;
+}
+
+.jobcontainer {
+	width: 33%;
+	display: inline-block;
+}
+
+.experiencecontainer {
+}
+
+.experiencecontainer img {
+	width: 100%;
+}
